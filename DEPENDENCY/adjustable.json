@@ -1,0 +1,36 @@
+{
+    "CROP": {
+        "STRAIGHTEN": {
+            "THRESHOLD": 45,
+            "DEFAULT": 0
+        },
+        "ZOOM": {
+            "THRESHOLD": 0,
+            "DEFAULT": 1
+        }
+    },
+    "ADJUST": {
+        "THRESHOLD": 30,
+        "DEFAULT": 0
+    },
+    "FILTERS": {
+        "ORIGINAL":{"DEFAULT": true
+        },
+        "STUDIO": {
+            "DEFAULT": false
+        },
+        "SPOTLIGHT": {
+            "DEFAULT": false
+        },
+        "PRIME": {
+            "DEFAULT": false
+        },
+        "CLASSIC": {
+            "DEFAULT": false
+        },
+        "EDGE": {
+            "DEFAULT": false
+        },
+        "LUMINATE": {
+            "DEFAULT": false
+        }}}
